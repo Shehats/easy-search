@@ -1,0 +1,30 @@
+{
+  "name": "easy-search",
+  "version": "0.1.0",
+  "description": "A search pipe that filters async objects aswell as normal classes using any number of filters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shehats/easy-search.git"
+  },
+  "keywords": [
+    "search",
+    "pipe",
+    "angular",
+    "ionic"
+  ],
+  "author": "saleh shehata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shehats/easy-search/issues"
+  },
+  "homepage": "https://github.com/Shehats/easy-search#readme",
+  "dependencies": {
+    "@angular/core": "^6.0.0",
+    "easy-injectionjs": "^0.1.42",
+    "rxjs": "^5.5.7"
+  }
+}
